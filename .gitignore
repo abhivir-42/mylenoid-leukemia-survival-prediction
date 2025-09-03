@@ -10,3 +10,7 @@
 venv/
 
 __pycache__/
+
+.cursor/
+.cursor/rules/
+.cursor/rules/virtual-environment-guide.mdc
